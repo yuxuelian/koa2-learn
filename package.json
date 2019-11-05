@@ -20,7 +20,7 @@
     "koa-static": "^5.0.0",
     "koa-views": "^6.2.0",
     "ejs": "~2.3.3",
-    "mongoose": "^5.6.3",
+    "mongoose": "^5.7.5",
     "koa-generic-session": "^2.0.1",
     "koa-redis": "^4.0.0"
   },
